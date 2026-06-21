@@ -1,0 +1,7 @@
+id_pedido,data_venda,cliente,produto,valor_total,status
+1001,2026-06-01,Rhian Oliveira,Plano Premium,199.90,pago
+1002,02/06/2026, Ana Costa,Plano Standard,99.90,pago
+1003,2026-06-03,Carlos Souza,,149.90,cancelado
+1001,2026-06-01,Rhian Oliveira,Plano Premium,199.90,pago
+1004,2026-06-04, BEATRIZ SILVA ,Plano Premium,,pago
+1005,2026-06-05,Fernando Lima,Plano Standard,99.90,reembolsado

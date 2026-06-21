@@ -4,11 +4,13 @@ Este projeto foi desenvolvido para simular um cenário real de negócios, onde d
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python** (Biblioteca Pandas para manipulação e limpeza)
-- **SQL / SQLite** (Para armazenamento estruturado dos dados)
+- **SQL / SQLite & SQLAlchemy** (Para armazenamento estruturado dos dados)
 - **Git & GitHub** (Controle de versão)
 
 ## 🏗️ Estrutura do Projeto
 - `pipeline.py`: Script contendo o fluxo automatizado de Extração, Transformação e Carga (ETL).
+- `teste_queries.py`: Script para validação dos dados carregados através de queries SQL de agregação.
+- `vendas_bruto.csv`: Base de dados inicial simulando os erros do mundo real.
 
 ## 📈 Resultados Obtidos
 Automatizei todo o processo de limpeza, o que eliminou o trabalho manual de arrumar planilhas. Deixei os dados organizados, sem duplicatas e prontos para serem usados direto no Power BI sem dor de cabeça.
