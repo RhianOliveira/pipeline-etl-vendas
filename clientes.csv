@@ -1,0 +1,22 @@
+id_cliente,nome_cliente,cidade,uf,tipo_pessoa
+1,Rhian Oliveira,SAO PAULO,SP,PF
+2,  Ana Costa ,Campinas,SP,PF
+3,Carlos Souza,Rio de janero,rJ,PF
+4,BEATRIZ SILVA,Belo Horizonte,MG,PJ
+5,Fernando Lima,Curitiba,PR,1
+6,marcos rocha,SAO PAULOI,SPP,1
+7,Mariana Santos,Porto Alegre,RS,2
+8,Gabriel Almeida ,Salvador,BA,PF
+9, lucas ribeiro,Fortaleza,CE,PF
+10,Juliana Costa,Recife,PE,PJ
+11,RODRIGO MELO,Manaus,AM,1
+5,Fernando Lima,Curitiba,PR,1
+12,Amanda Martins,Goiania,GO,PF
+13,Ricardo Oliveira,SAO PAULO,SP,2
+14, Camila Souza,Belo Horizonte,mg,PF
+15,Bruno Alves,Campinas,SPP,PJ
+16,Larissa Ferreira,Rio de Janeiro,RJ,PF
+17,felipe dias,Salvador,BA,1
+18,Patrícia Lima,Curitiba,PR,PF
+19,Gustavo Silva,Fortaleza,CE,2
+20,Aline Teixeira,SAO PAULO,SP,PF
